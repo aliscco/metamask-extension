@@ -249,7 +249,7 @@
     "del": "^3.0.0",
     "enzyme": "^3.10.0",
     "enzyme-adapter-react-16": "^1.15.1",
-    "eslint": "^7.23.0",
+    "eslint": "^9.0.0",
     "eslint-config-prettier": "^8.1.0",
     "eslint-plugin-import": "^2.22.1",
     "eslint-plugin-jest": "^24.3.4",
