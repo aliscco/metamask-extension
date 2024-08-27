@@ -229,7 +229,7 @@
     "@storybook/addon-knobs": "^6.1.17",
     "@storybook/addon-toolbars": "^6.1.17",
     "@storybook/core": "^6.1.17",
-    "@storybook/react": "^6.1.17",
+    "@storybook/react": "^6.5.0",
     "@storybook/storybook-deployer": "^2.8.7",
     "@testing-library/jest-dom": "^5.11.10",
     "@testing-library/react": "^10.4.8",
@@ -316,7 +316,7 @@
     "vinyl-buffer": "^1.0.1",
     "vinyl-source-stream": "^2.0.0",
     "watchify": "^3.11.1",
-    "webpack": "^4.41.6",
+    "webpack": "^5.94.0",
     "yargs": "^17.0.1"
   },
   "engines": {
